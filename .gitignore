@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+bin/
+out/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

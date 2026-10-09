@@ -17,6 +17,11 @@ MotionCore is a personal project combining my background in motion graphics and 
 - [x] Add Keyframe functionality
 - [x] Draggable timeline keyframes for adjusting timing
 - [ ] Individual keyframe position editing
+- [ ] Select and delete keyframes
+- [ ] Edit object properties at specific keyframes
+- [ ] Add rotation, scale, and opacity animation
+- [ ] Improve layer management and timeline controls
+- [ ] Save and load animation projects
 
 ## Features
 
@@ -28,11 +33,14 @@ MotionCore is a personal project combining my background in motion graphics and 
 
 ## Planned Features
 
-- Position, rotation, scale, and opacity controls
-- Improved layer and timeline editing
-- Animation paths
-- Physics-based animation
-- Save and load animation projects
+- Animation paths and motion trails
+- Easing options beyond linear interpolation
+- Copy, paste, and duplicate keyframes
+- Undo and redo
+- Keyboard shortcuts
+- Physics-based animation, including gravity, friction, and collisions
+- Export animations as video or image sequences
+- Explore a browser-based version
 
 ## Technology
 
